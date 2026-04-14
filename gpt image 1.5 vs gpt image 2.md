@@ -4,6 +4,8 @@
 > **Last updated:** April 2026  
 > **Author’s note:** This article combines official product information, third-party reviews, and real user feedback from developer communities. All sources are documented in Markdown format for transparency and GitHub publication.
 
+![gptimg-1 5-2](https://github.com/user-attachments/assets/a57af019-41bc-4a65-916c-e3b961e61261)
+
 ---
 
 ## Table of Contents
