@@ -194,7 +194,7 @@ But the industry seems to be moving in that direction.
 
 ---
 
-# How GPT Image 3 Might Compare With Nano Banana 3
+# How GPT Image 3 Might Compare With [Nano Banana](https://nanobanana.co/) 3
 
 <img width="1672" height="941" alt="GPTImage-6-13-01" src="https://github.com/user-attachments/assets/404ffb9a-2e94-4318-b10d-cbdc564472ca" />
 
