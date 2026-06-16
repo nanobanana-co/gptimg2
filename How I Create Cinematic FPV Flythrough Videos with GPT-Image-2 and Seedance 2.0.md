@@ -22,7 +22,7 @@ Depending on the project, costs could easily range from thousands to hundreds of
 
 Today, that barrier is rapidly disappearing.
 
-Recently, I've been experimenting with an incredibly powerful workflow using **Seedance 2.0** that allows me to generate cinematic first-person aerial footage from nothing more than:
+Recently, I've been experimenting with an incredibly powerful workflow using ** [Seedance 2.0](https://seevideoai.net) ** that allows me to generate cinematic first-person aerial footage from nothing more than:
 
 - A single image
 - A simple red line
@@ -42,7 +42,7 @@ And the results are surprisingly impressive.
 
 ## Why This Article Matters
 
-As someone who regularly tests AI video generation workflows, I've found that most creators focus heavily on prompts while overlooking one critical element:
+As someone who regularly tests [AI video generation workflows](https://gptimg2.io), I've found that most creators focus heavily on prompts while overlooking one critical element:
 
 > Camera control.
 
