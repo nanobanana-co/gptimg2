@@ -344,7 +344,7 @@ Pull upward and reveal:
 
 This creates a complete narrative journey rather than a single isolated shot.
 
-[<img width="7680" height="4320" alt="video-6-16-04-01" src="https://github.com/user-attachments/assets/79c146d3-b40d-4f09-81cc-362bfc26d850" />](https://x.com/MrLarus/status/2062324295984955436?s=20)
+[video-6-17.webm](https://github.com/user-attachments/assets/ccd94625-acef-42a8-bc4c-6a3d091d99ad)
 
 ---
 
